@@ -1,0 +1,22 @@
+.owner-dashboard-error-card {
+  margin: 2rem auto;
+  max-width: 600px;
+}
+
+.owner-dashboard-stats-value {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.owner-dashboard-sort-select {
+  width: auto;
+  margin-bottom: 0;
+}
+
+.owner-dashboard-table-wrapper {
+  overflow-x: auto;
+}
+
+.owner-dashboard-rating-value {
+  font-weight: bold;
+}

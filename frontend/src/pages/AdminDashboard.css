@@ -1,0 +1,39 @@
+.admin-dashboard-stats-card {
+  flex: 1;
+  text-align: center;
+}
+
+.admin-dashboard-stats-value {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.admin-dashboard-section-card {
+  flex: 1;
+}
+
+.admin-dashboard-filter-input {
+  width: auto;
+}
+
+.admin-dashboard-sort-select {
+  width: auto;
+  margin-bottom: 0;
+}
+
+.admin-dashboard-table-wrapper {
+  overflow-x: auto;
+}
+
+.admin-dashboard-modal-card {
+  border: 2px solid var(--primary);
+}
+
+.admin-dashboard-modal-section {
+  background-color: #F3F4F6;
+  border-radius: 0.5rem;
+}
+
+.admin-dashboard-filter-container {
+  flex-wrap: wrap;
+}
